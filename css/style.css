@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+/*link form icons boostrap*/
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
+
+body {
+    background-color: #fffdf7;
+    color: #4a3624;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.btn-primary {
+    background-color: #8b5e3c;
+    border-color: #8b5e3c;
+}
+
+.btn-primary:hover {
+    background-color: #6f452f;
+    border-color: #6f452f;
+}
+
+.bg-brown {
+    background-color: #a17856;
+  }
+  
